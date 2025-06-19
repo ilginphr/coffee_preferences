@@ -7,6 +7,12 @@ This Streamlit app predicts your ideal coffee based on:
 - Mood
 - Caffeine tolerance
 
+  
+## 📁 Dataset
+
+The dataset used in this project was manually generated using hypothetical user scenarios and preferences via ChatGPT.  
+It includes attributes such as age, sleep hours, mood, and caffeine tolerance to simulate real-world behavior.
+
 ## 🚀 Features
 
 - Web interface via Streamlit
@@ -15,6 +21,7 @@ This Streamlit app predicts your ideal coffee based on:
 - Real-time prediction
 
 ## 📦 Installation
+
 
 ```bash
 pip install -r requirements.txt
